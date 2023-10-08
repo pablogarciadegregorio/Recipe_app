@@ -7,4 +7,4 @@
 <img height="300" src="https://github.com/pablogarciadegregorio/React_Native_MealPrep_app/assets/129775284/9badaed7-bf75-41b9-b54d-47ce9bc480c7">
 <br>
 <hr>
-<p>Made with React Native</p>
+<p>Made with React Native & EXPO</p>
